@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    color: orange;
+    font-style: italic;
+    font-weight: 900;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-decoration:overline;
+    font-size: large;
+    text-align: center;
+}
+
+#heading-parent{
+    background-color: rgba(0, 255, 255, 0.152);
+    height: 500px;
+    padding: 100px 0;
+    width: 600px;
+    /* margin-left: auto;
+    margin-right: auto; */
+    margin: 50px auto;
+}
